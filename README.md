@@ -6,10 +6,12 @@
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=OzerBey&count_private=true&show_icons=true&theme=tokyonight" />
+  <h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=OzerBey&count_private=true&show_icons=true&theme=tokyonight" /> </h2>
 </a>
-
+<h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozerbey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ozerbey" /></p></p>
+<h2/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozerbey&label=Profile%20views&color=0e75b6&style=flat" alt="ozerbey" />
 </p></p>

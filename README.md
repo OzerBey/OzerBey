@@ -5,22 +5,18 @@
   I'm living in Istanbul,Turkey. I am a computer engineering student.</h3>
   <hr>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=OzerBey&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozerbey&show_icons=true&locale=en" alt="ozerbey" />
 
-<h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozerbey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ozerbey" /></p></p>
-<h2/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozerbey&show_icons=true&locale=en&layout=compact" alt="ozerbey" /></p></p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozerbey&label=Profile%20views&color=0e75b6&style=flat" alt="ozerbey" />
-    <a href="https://twitter.com/ozer_byy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ozer_byy" height="30" width="30" /></a>  
-  <a href="https://medium.com/@Ozer_byy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ozer_byy" height="30" width="30" /></a>  
-  <a href="https://www.linkedin.com/in/ozeryasin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ozeryasin" height="30" width="30" /></a>  
-<a href="https://stackoverflow.com/users/15182336/yasin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15182336" height="30" width="30" />
-  </a>  
-<a href="https://ozerbey.github.io/"><img src="https://img.icons8.com/ios-filled/34/000000/domain.png"/></a>
-</p>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ozer_byy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ozer_byy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasin-%c3%b6zer-a210b9184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yasin-%c3%b6zer-a210b9184/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15182336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15182336" height="30" width="40" /></a>
 </p></p>
-<hr>
+
+</p>

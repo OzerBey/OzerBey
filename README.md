@@ -5,7 +5,15 @@
   I'm living in Istanbul,Turkey. I am a computer engineering student.</h3>
   <hr>
 <a href="http://ozerbey.github.io">
+  
+  
+<details>
+  <summary>GitHub Stats </summary><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozerbey&show_icons=true&locale=en" alt="ozerbey" />
+</details>
+  
+  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozerbey&show_icons=true&locale=en&layout=compact" alt="ozerbey" /></p></p>
 

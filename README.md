@@ -33,3 +33,5 @@
 </p></p>
 
 </p><hr>
+
+![snake gif](https://github.com/ozerbey/ozerbey/blob/output/github-contribution-grid-snake.gif)

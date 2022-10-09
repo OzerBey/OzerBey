@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ozer_byy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ozer_byy" height="30" width="40" /></a>
-  <a href="https://medium.com/@Ozer_byy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ozer_byy" height="30" width="30" /></a> 
+  <a href="https://ozeryasin.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@Ozer_byy" height="30" width="30" /></a> 
 <a href="https://linkedin.com/in/ozeryasin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ozeryasin" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/OzerBey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="OzerBey" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15182336" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15182336" height="30" width="40" /></a>
